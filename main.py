@@ -1,3 +1,3 @@
-print('Hello World!')
+import nyugta
 
-print('ez egy második print')
+nyugta.nyugta()
