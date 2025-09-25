@@ -1,3 +1,6 @@
 import nyugta
+import fuggvenyek
 
-nyugta.nyugta()
+#nyugta.nyugta()
+
+fuggvenyek.eredmeny()
